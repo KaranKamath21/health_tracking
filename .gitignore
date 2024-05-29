@@ -1,0 +1,15 @@
+/build/
+.DS_Store
+*.iml
+.idea/
+.metadata
+*.lock
+/*.log
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+.gradle/
+pubspec.lock
+.pub-cache/
+.vscode/
